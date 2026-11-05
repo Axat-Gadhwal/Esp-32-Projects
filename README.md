@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/4156027e-5fd7-4271-b179-68f6180c4082
 # ESP32 Projects
 
 A hands-on collection of ESP32 and ESP8266 experiments, embedded systems, and IoT builds by **Axat Gadhwal**.
@@ -47,6 +49,12 @@ Photos from the project work:
 <img width="100%" alt="ESP32 project photo 5" src="https://github.com/user-attachments/assets/e65e699e-e5ce-4976-aaaf-9abcf9b49971" />
 
 <img width="100%" alt="ESP32 project photo 6" src="https://github.com/user-attachments/assets/026e3033-5fe7-4ede-987b-b52031086341" />
+
+## Video
+
+https://github.com/user-attachments/assets/754d2961-a0f6-4e0b-9fbf-358a9262af78
+
+
 
 ## Build philosophy
 
