@@ -102,3 +102,23 @@ GitHub: [@Axat-Gadhwal](https://github.com/Axat-Gadhwal)
 ---
 
 If you try a project, feel free to open an issue with your board details, wiring, and any error messages.
+
+# Project 3
+Images and Video
+
+
+
+https://github.com/user-attachments/assets/f53c9482-5399-484a-8882-73c331849f20
+
+
+
+
+
+
+
+<img width="907" height="584" alt="Screenshot 2026-11-08 222747" src="https://github.com/user-attachments/assets/b711ff81-3d77-4943-b6a9-ff9873cb9551" />
+<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 22 05 28 (1)" src="https://github.com/user-attachments/assets/583a906a-8ed9-44b5-ba2a-4fd37a28afb9" />
+<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 22 05 28" src="https://github.com/user-attachments/assets/b6059fac-8bbe-4a72-952b-d52be2761c99" />
+<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 22 05 27" src="https://github.com/user-attachments/assets/4d68ff32-6899-4096-99c7-9c2a4abe2150" />
+<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 22 06 25 (1)" src="https://github.com/user-attachments/assets/773226de-9697-4fff-98e6-cdf2e269baf4" />
+<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 22 06 25" src="https://github.com/user-attachments/assets/b1dd10f0-88d4-4e64-92e3-767fcde6c501" />
