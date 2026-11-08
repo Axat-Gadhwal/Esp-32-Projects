@@ -2,6 +2,14 @@
 
 <sub><b>Project by:</b> Axat Gadhwal · <b>Type:</b> ESP-NOW two-board embedded prototype</sub>
 
+
+## Video
+
+
+
+https://github.com/user-attachments/assets/5a5699db-0f91-4adf-8f81-aaa54836261a
+
+
 ## Project photos
 
 <img width="100%" alt="TILTGUARD project photo 1" src="https://github.com/user-attachments/assets/180ba8b3-38c3-4469-b375-dde0401b462a" />
