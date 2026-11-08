@@ -1,6 +1,10 @@
 # TILTGUARD — Wireless Bus Tilt Demonstrator
 
-A two-board educational prototype that sends tilt-sensor readings from a model bus unit to a remote warning centre.
+<sub><b>Project by:</b> Axat Gadhwal · <b>Type:</b> ESP-NOW two-board embedded prototype</sub>
+
+<img width="100%" alt="Axat's TILTGUARD hardware project photo" src="https://github.com/user-attachments/assets/180ba8b3-38c3-4469-b375-dde0401b462a" />
+
+TILTGUARD is a two-unit educational prototype that sends tilt-sensor readings from a model bus unit to a remote warning centre.
 
 ## Architecture
 
@@ -106,3 +110,7 @@ If no valid packet arrives for 1.5 seconds, the receiver displays **LINK LOST** 
 ## Current status
 
 Firmware and documentation are an initial reproducible build. The analog scale and warning thresholds still require bench calibration on the exact GY-61 module and NodeMCU revision. Do not interpret the display as an angle measurement until a proper multi-position calibration has been completed.
+
+---
+
+[Back to the ESP32 Projects repository](../../README.md)
