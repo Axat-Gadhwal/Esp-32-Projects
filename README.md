@@ -1,18 +1,28 @@
-
-https://github.com/user-attachments/assets/4156027e-5fd7-4271-b179-68f6180c4082
 # ESP32 Projects
 
 A hands-on collection of ESP32 and ESP8266 experiments, embedded systems, and IoT builds by **Axat Gadhwal**.
 
-This repository documents projects that are built and tested with real hardware. Each project folder should contain its firmware, wiring reference, required libraries, and build notes.
+This repository documents projects built with real hardware. Each project folder contains its firmware, wiring reference, required libraries, and build notes.
 
-## Featured project
+## Featured projects
+
+### TILTGUARD — Wireless Bus Tilt Demonstrator
+
+<sub><b>Status:</b> Educational prototype · <b>Boards:</b> ESP8266 + ESP32</sub>
+
+TILTGUARD is a two-unit tabletop model. A GY-61 (ADXL335) accelerometer on a LOLIN NodeMCU sends readings wirelessly over ESP-NOW to an ESP32 warning centre. The ESP32 displays the status on an OLED and can operate a small compatible buzzer.
+
+<img width="100%" alt="Axat's TILTGUARD hardware project photo" src="https://github.com/user-attachments/assets/180ba8b3-38c3-4469-b375-dde0401b462a" />
+
+**Project files:** [TILTGUARD build guide](projects/tiltguard/README.md) · [Wiring guide](projects/tiltguard/wiring.md) · [ESP8266 transmitter](projects/tiltguard/transmitter/transmitter.ino) · [ESP32 receiver](projects/tiltguard/receiver/receiver.ino)
+
+**Important:** This is a stationary educational demonstration, not a vehicle safety system. Its current readings are ADC deviations, not calibrated tilt angles.
 
 ### PHANTOM GUARD — RFID Smart Access Monitor
 
 <sub><b>Status:</b> Working prototype · <b>Board:</b> ESP32</sub>
 
-A compact access-monitoring demonstration that combines:
+A compact access-monitoring demonstration combining:
 
 - **RC522 RFID reader** — reads card identifiers and checks an allowed UID.
 - **PIR motion sensor** — detects nearby movement and prompts a card scan.
@@ -21,7 +31,7 @@ A compact access-monitoring demonstration that combines:
 
 The current prototype uses UID matching for demonstration purposes. It is **not suitable for securing real doors or valuables**; UID-only checks can be copied or emulated on some cards.
 
-**Project files:** [Wiring & build guide](projects/phantom-guard/README.md) · [ESP32 firmware](projects/phantom-guard/phantom_guard.ino)
+**Project files:** [PHANTOM GUARD wiring & build guide](projects/phantom-guard/README.md) · [ESP32 firmware](projects/phantom-guard/phantom_guard.ino)
 
 ## Repository structure
 
@@ -29,14 +39,21 @@ The current prototype uses UID matching for demonstration purposes. It is **not 
 Esp-32-Projects/
 ├── README.md
 └── projects/
-    └── phantom-guard/
+    ├── phantom-guard/
+    │   ├── README.md
+    │   └── phantom_guard.ino
+    └── tiltguard/
         ├── README.md
-        └── phantom_guard.ino
+        ├── wiring.md
+        ├── transmitter/
+        │   └── transmitter.ino
+        └── receiver/
+            └── receiver.ino
 ```
 
 ## Hardware gallery
 
-Photos from the project work:
+Project photos from the actual builds:
 
 <img width="100%" alt="ESP32 project photo 1" src="https://github.com/user-attachments/assets/2af6dde3-83d7-4740-8b50-54d4655e5939" />
 
@@ -52,9 +69,7 @@ Photos from the project work:
 
 ## Video
 
-https://github.com/user-attachments/assets/754d2961-a0f6-4e0b-9fbf-358a9262af78
-
-
+[Watch the project video](https://github.com/user-attachments/assets/754d2961-a0f6-4e0b-9fbf-358a9262af78)
 
 ## Build philosophy
 
@@ -71,19 +86,3 @@ GitHub: [@Axat-Gadhwal](https://github.com/Axat-Gadhwal)
 ---
 
 If you try a project, feel free to open an issue with your board details, wiring, and any error messages.
-
-
-
-
-2nd one:
-
-Images
-<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 20 19 34 (1)" src="https://github.com/user-attachments/assets/180ba8b3-38c3-4469-b375-dde0401b462a" />
-<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 20 19 34" src="https://github.com/user-attachments/assets/0da1aab5-3f18-46c7-9561-5181ccab1958" />
-<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 20 19 33 (1)" src="https://github.com/user-attachments/assets/c2d6db38-9bb7-4475-b68a-bfaadca9dfa0" />
-<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 20 19 33" src="https://github.com/user-attachments/assets/f4411053-0374-4dfe-8f52-050e28eccd27" />
-
-
-https://github.com/user-attachments/assets/d03a3757-a0df-4573-9c05-611b81ae7528
-
-
