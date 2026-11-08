@@ -71,3 +71,19 @@ GitHub: [@Axat-Gadhwal](https://github.com/Axat-Gadhwal)
 ---
 
 If you try a project, feel free to open an issue with your board details, wiring, and any error messages.
+
+
+
+
+2nd one:
+
+Images
+<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 20 19 34 (1)" src="https://github.com/user-attachments/assets/180ba8b3-38c3-4469-b375-dde0401b462a" />
+<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 20 19 34" src="https://github.com/user-attachments/assets/0da1aab5-3f18-46c7-9561-5181ccab1958" />
+<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 20 19 33 (1)" src="https://github.com/user-attachments/assets/c2d6db38-9bb7-4475-b68a-bfaadca9dfa0" />
+<img width="1160" height="522" alt="WhatsApp Image 2026-11-08 at 20 19 33" src="https://github.com/user-attachments/assets/f4411053-0374-4dfe-8f52-050e28eccd27" />
+
+
+https://github.com/user-attachments/assets/d03a3757-a0df-4573-9c05-611b81ae7528
+
+
