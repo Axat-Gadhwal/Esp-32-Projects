@@ -15,7 +15,7 @@
 
 // Replace these bytes with the ESP32 STA MAC printed by receiver.ino.
 uint8_t RECEIVER_MAC[6] = {
-  0x70, 0x4B, 0xCA, 0x17, 0x33, 0x98
+  CENSORED
 };
 
 static const uint32_t PACKET_MAGIC = 0x54494C54;
