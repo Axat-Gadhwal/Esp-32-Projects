@@ -12,7 +12,15 @@ This repository documents projects built with real hardware. Each project folder
 
 TILTGUARD is a two-unit tabletop model. A GY-61 (ADXL335) accelerometer on a LOLIN NodeMCU sends readings wirelessly over ESP-NOW to an ESP32 warning centre. The ESP32 displays the status on an OLED and can operate a small compatible buzzer.
 
-<img width="100%" alt="Axat's TILTGUARD hardware project photo" src="https://github.com/user-attachments/assets/180ba8b3-38c3-4469-b375-dde0401b462a" />
+### Latest TILTGUARD build photos
+
+<img width="100%" alt="TILTGUARD project photo 1" src="https://github.com/user-attachments/assets/180ba8b3-38c3-4469-b375-dde0401b462a" />
+
+<img width="100%" alt="TILTGUARD project photo 2" src="https://github.com/user-attachments/assets/0da1aab5-3f18-46c7-9561-5181ccab1958" />
+
+<img width="100%" alt="TILTGUARD project photo 3" src="https://github.com/user-attachments/assets/c2d6db38-9bb7-4475-b68a-bfaadca9dfa0" />
+
+<img width="100%" alt="TILTGUARD project photo 4" src="https://github.com/user-attachments/assets/f4411053-0374-4dfe-8f52-050e28eccd27" />
 
 **Project files:** [TILTGUARD build guide](projects/tiltguard/README.md) · [Wiring guide](projects/tiltguard/wiring.md) · [ESP8266 transmitter](projects/tiltguard/transmitter/transmitter.ino) · [ESP32 receiver](projects/tiltguard/receiver/receiver.ino)
 
